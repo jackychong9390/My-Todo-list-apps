@@ -1,5 +1,5 @@
-To do list apps in kotlin for demo purpose. 
-I'm using MVVM technique, the library includes room database, liveData object, data/view binding and Navigation component.
+To do list apps in kotlin for demo purpose. The application is built based on Kotlin, user is able to store almost infinite notes inside the Recycle View list. 
+The library includes Room database, LiveData object, Data & View binding and Navigation component. View my project at GooglePlay store.
 
 [![](https://github.com/jackychong9390/My-Todo-list-apps/blob/master/images/GooglePlayIcon.png)](https://play.google.com/store/apps/details?id=com.byond.mytodolist)
 
